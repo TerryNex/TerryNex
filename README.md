@@ -22,4 +22,8 @@
 
 ---
 
+### ⚠️ Note:
+Due to the confidentiality of many projects I work on, you might not see many contributions on my public profile. Rest assured, I am actively involved in various exciting and impactful projects behind the scenes.
+
+---
 Feel free to connect with me, and let's create something amazing together!
