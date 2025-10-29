@@ -1,14 +1,10 @@
-![Total Coding Time since 28 Oct 2025](https://img.shields.io/badge/dynamic/json?style=social&label=Total%20Coding%20Time%20Since%2028%20Oct%202025&query=$.days[0].grand_total.text&url=https%3A%2F%2Fwakatime.com%2Fshare%2F@d9a9500e-36df-4428-9085-cced71f79f86%2F9795412f-41af-4510-98f4-168d1f16f495.json)
 
 
 
 
 
 
-
-
-
-# 👋 Hi, I’m Terry
+# 👋 Hi, I’m Terry [![wakatime](https://wakatime.com/badge/user/d9a9500e-36df-4428-9085-cced71f79f86.svg)](https://wakatime.com/@d9a9500e-36df-4428-9085-cced71f79f86)
 
 ### 🌟 About Me:
 - 🎓 After-sales Engineer with a passion for coding and technology.
