@@ -1,11 +1,5 @@
 
-
-
-
-
-
-# 👋 Hi, I’m Terry [![wakatime](https://wakatime.com/badge/user/d9a9500e-36df-4428-9085-cced71f79f86.svg)](https://wakatime.com/@d9a9500e-36df-4428-9085-cced71f79f86)
-
+# 👋 Hi, I’m Terry
 ### 🌟 About Me:
 - 🎓 After-sales Engineer with a passion for coding and technology.
 - 💡 Self-taught programmer, continuously improving my skills.
